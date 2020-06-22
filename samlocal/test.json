@@ -1,0 +1,8 @@
+{
+    "AuthFunction": {
+        "AD_ROOT": "dc=brehmcla,dc=amazon,dc=com",
+        "AD_URL": "ldap://172.31.20.155",
+        "USER_ROLE": "aws-role-arn",
+        "S3_BUCKET_ARN": "s3-bucket-arn"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "transfer-auth",
+  "version": "1.0.0",
+  "description": "ldap auth to do transfer auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "brehmcla@amazon.com",
+  "license": "ISC",
+  "dependencies": {
+    "ldapjs": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}
